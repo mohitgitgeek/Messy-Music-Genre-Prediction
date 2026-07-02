@@ -1,13 +1,3 @@
----
-title: Messy Mashup Genre Studio
-emoji: 🎧
-colorFrom: green
-colorTo: yellow
-sdk: static
-pinned: false
-license: mit
----
-
 # dl_genai_t12026
 
 Full working application for the Introduction to DL and GenAI T12026 course project.
